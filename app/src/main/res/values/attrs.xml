@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="TicTacToeBoard">
+        <attr name="colorBoard" format="color"/>
+        <attr name="oColor" format="color"/>
+        <attr name="xColor" format="color"/>
+        <attr name="winningColor" format="color"/>
+
+    </declare-styleable>
+</resources>
